@@ -35,12 +35,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.telephony.ril_class=SamsungQualcommRIL \
     ro.telephony.call_ring.multiple=0
 
-# GalaxyS3Settings
-# TODO: Move here
-#PRODUCT_PACKAGES += \
-#     GalaxyS3Settings \
-#     SamsungServiceMode
-
 # Omx
 PRODUCT_PACKAGES += \
     libdivxdrmdecrypt \
